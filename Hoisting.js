@@ -1,0 +1,2 @@
+let miNombre;
+miNombre = "Juan";
